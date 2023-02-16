@@ -1,6 +1,46 @@
 /*==================== GOOGLE FONTS ====================*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
 
+/*-----------------------------------------------------------------------------------
+
+    Theme Name: HTDEV Portfolio
+    Author: thaipham-coder
+    Support: support@hongthai.tech
+    Description: HTDEV - Agency & Portfolio Template
+    Version: 2.0
+
+-----------------------------------------------------------------------------------
+
+/************ TABLE OF CONTENTS ***************
+
+    01. VARIABLES CSS
+    02. HEADER CSS
+    03. MEANMENU CSS
+    04. HERO CSS
+    05. ABOUT CSS
+    06. BLOG CSS
+    07. SERVICES CSS
+    08. VIDEO CSS
+    09. PROJECT CSS
+    10. TESTIMONIAL CSS
+    11. BRAND CSS
+    12. CTA CSS
+    13. SLIDER CSS
+    14. FACT CSS
+    15. TEAM CSS
+    16. EVENT CSS
+    17. CONTACT CSS
+    18. PRICING CSS
+    19. FAQ CSS
+    20. PRIVACY CSS
+    21. JOB CSS
+    22. SHOP CSS
+    23. CART CSS
+    24. FOOTER CSS
+    25. DARK LIGHT CSS
+
+**********************************************/
+
 /*==================== VARIABLES CSS ====================*/
 :root {
   --header-height: 3rem;
